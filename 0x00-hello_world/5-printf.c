@@ -4,7 +4,7 @@
 * main - entry point
 *
 * print using printf
-* 
+*
 * Return: Always 0 (Success)
 */
 
