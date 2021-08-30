@@ -5,6 +5,12 @@
 *
 * Printing with write
 *
+* using filedes
+*
+* using bluf
+*
+* using nbyte
+*
 * Return: Always 0 (Success)
 */
 
