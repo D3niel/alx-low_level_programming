@@ -10,6 +10,6 @@
 
 int main(void)
 {
-	printf("Hello, World!\n");
+	printf("Holberton\n");
 	return (0);
 }
