@@ -13,7 +13,7 @@ void print_alphabet(void)
 	bool a = true;
 
 	while (a)
-        {
+	{
 	_putchar (i);
 
 		if (i == 122)
@@ -24,7 +24,7 @@ void print_alphabet(void)
 	}
 	{
 
-		putchar ('\n');
+		_putchar ('\n');
 	}
 
 }
