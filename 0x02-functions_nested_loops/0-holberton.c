@@ -11,6 +11,6 @@
 
 int main(void)
 {
-	printf("Holberton\n");
+	printf("_putchar\n");
 	return (0);
 }
