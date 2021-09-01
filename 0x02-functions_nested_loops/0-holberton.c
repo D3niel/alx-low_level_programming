@@ -9,8 +9,27 @@
 * Return: Always 0.
 */
 
-int main(void)
+Int main(void)
+
 {
-	printf("_putchar\n");
-	return (0);
+
+	 Char word[8] = “_putchar”;
+
+	 Int I;
+
+
+
+	 For (i = 0; i < 8; i++)
+
+	 {
+
+	 }
+
+	 Else
+
+		 _pitchar(‘\n’);
+
+	 Return (0);
+
 }
+
