@@ -22,10 +22,9 @@ void print_alphabet(void)
 		}
 	i++;
 	}
-		for (i = 0; i < 11; i++);
 	{
 
 		_putchar ('\n');
-	}
+		}
 
 }
