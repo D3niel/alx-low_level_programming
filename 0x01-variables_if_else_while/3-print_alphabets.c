@@ -19,11 +19,10 @@ int main(void)
 	a = 'A';
 	while (a <= 'Z')
 	{
-
 	putchar(a);
-	a++;											
+	a++;
 	}
-	
+
 	putchar('\n');
 	return (0);
 }
