@@ -3,7 +3,7 @@
 /**
 * print_alphabet_x10 – prints alphabet
 *
-* using _putchar to print alphabet
+* @c: _putchar to print alphabet
 */
 
 void print_alphabet_x10(void)
