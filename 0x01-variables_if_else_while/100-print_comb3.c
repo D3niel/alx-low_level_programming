@@ -25,7 +25,7 @@ int main(void)
 
 			putchar(i);
 			putchar(j);
-			
+
 			if (i == 56 && j == 57)
 			{
 				break;
@@ -38,5 +38,5 @@ int main(void)
 		}
 	}
 	putchar('\n');
-	return (0);
+	return (0)
 }
