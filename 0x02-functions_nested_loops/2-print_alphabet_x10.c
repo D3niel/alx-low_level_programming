@@ -3,7 +3,7 @@
 /**
 * print_alphabet_x10 – function that prints lowercase alphabet
 *
-* uses _putchar to print alphabet
+* using _putchar to print alphabet
 */
 
 void print_alphabet_x10(void)
