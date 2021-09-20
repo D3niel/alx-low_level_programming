@@ -1,7 +1,5 @@
 #include "main.h"
 
-#include <stdbool.h>
-
 /**
 * print_alphabet – function that prints lowercase alphabet
 */
@@ -9,21 +7,17 @@
 void print_alphabet_x10(void)
 
 {
-	int i = 97;
-	bool a = true;
+	int i;
+	char c;
 
-	while (a)
+	for (i = 0; i < 10; i++)
 	{
-	_putchar (i);
-
-		if (i == 122)
+		for (c = 'a'; c <= 'z'; c++)
 		{
-			a = false;
+			_putchar(c);
 		}
-	}
-	i++;
-	for (a = 0; a <11; a++)
-	{
-		_putchar ('\n');
+		_putchar('\n');
 	}
 }
+
+
