@@ -48,6 +48,6 @@ char *_strcat(char *dest, char *src)
 	*cat += '\0';
 	cat -= (length);
 	*dest = *cat;
-	
+
 	return (cat);
 }
