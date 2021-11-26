@@ -1,5 +1,4 @@
-#inculde <stdio.h>
-#include "main.h"
+#include "stdio.h"
 
 /**
  *powB - raises the number base to power power
